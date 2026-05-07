@@ -32,7 +32,7 @@ const PredictionForm = () => {
       setLoading(true);
 
       const response = await axios.post(
-        "http://127.0.0.1:5000/predict",
+        `${import.meta.env.VITE_BACKEND_URL}/predict`,
         formData
       );
 
