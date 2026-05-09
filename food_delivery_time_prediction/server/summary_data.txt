@@ -1,0 +1,11 @@
+Traffic_Level 
+1->low
+2->medium
+3->high
+4->heavy
+5->extreme
+
+Weather
+1->sunny
+2->cloudy
+3->rainy
