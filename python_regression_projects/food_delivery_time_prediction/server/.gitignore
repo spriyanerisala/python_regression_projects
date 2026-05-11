@@ -1,4 +1,0 @@
-.env
-__pycache__/
-*.pyc
-model/__pycache__/
